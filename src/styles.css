@@ -41,7 +41,6 @@ h3, h4, h5 {
 .adicional {
     display: flex;
     flex-direction: column;
-    /* justify-content: space-between; */
     align-items: start;
     padding: 20px;
     border: 1px solid #ccc;
