@@ -34,5 +34,4 @@ const InfoPropriedades = (props) => {
         </div>
     );
 }
-
 export default InfoPropriedades;
