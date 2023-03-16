@@ -1,4 +1,5 @@
 const InfoVinculos = (props) => {
+    
      //Tabelas de Vinculos e Produtores
     let listaVinculos = Object.keys(props.td.vinculo || {}).map(i => {return props.td.vinculo[i]});
     let listaProdutores = Object.keys(props.td.produtores || {}).map(i => {return props.td.produtores[i]});
