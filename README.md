@@ -1,6 +1,6 @@
 # NICEPLANET- Teste Front-End
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O projeto foi desenvolvido utilizando a versão 16.14.2 do node.
 
 ## Available Scripts
 
