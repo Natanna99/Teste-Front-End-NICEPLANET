@@ -9,7 +9,7 @@ No terminal da aplicação, execute o comando:
 
 ### `npm install`
 
-In the project directory, you can run:
+Após a instalação dos pacotes node_modules, execute no terminal o comando:
 
 ### `npm start`
 
