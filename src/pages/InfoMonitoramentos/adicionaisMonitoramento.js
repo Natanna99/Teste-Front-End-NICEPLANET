@@ -1,6 +1,5 @@
 import { useParams } from 'react-router-dom';
 
-
 // Componente da pagina de mais informações sobre os Monitoramentos
 const AdicionalMonitoramento = (props) => {
     // Buscar o ID que esta vindo da URL
