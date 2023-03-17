@@ -26,7 +26,7 @@ const InfoPropriedades = (props) => {
                                 {/* botão que redireciona para a pagina de mais detalhes do propriedade */}
                                 <button className='detalhes' onClick={() =>
                                     irPara("/"+item.idPropriedade)
-                                }>Mais detalhes</button></td>
+                                }>Mais informações</button></td>
                         </tr>
                     </>
                 })}    
