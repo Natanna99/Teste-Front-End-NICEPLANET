@@ -1,4 +1,4 @@
-# NICEPLANET- Teste Front-End
+# NICEPLANET - Teste Front-End
 
 O projeto foi desenvolvido utilizando a versão 16.14.2 do node.
 
