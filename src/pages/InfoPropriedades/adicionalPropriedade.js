@@ -28,5 +28,4 @@ const AdicionalPropriedade = (props) => {
         </div>
     );
 }
-
 export default AdicionalPropriedade;
