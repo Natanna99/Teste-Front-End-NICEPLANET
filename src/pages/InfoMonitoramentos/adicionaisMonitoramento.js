@@ -12,7 +12,7 @@ const AdicionalMonitoramento = (props) => {
 
     return(
         <div>
-            <h3>Informações detalhadas sobre o parecer do moitoramento:</h3>
+            <h3>Informações detalhadas sobre o parecer do monitoramento: </h3>
             {/* Trecho do codigo que percorre as 3 lista */}
             {listaMonitoramentos.map(monitoramento=>{
                 // Verificar se o ID do item selecionado pelo usuario 
