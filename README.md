@@ -1,4 +1,4 @@
-# NICEPLANET- Teste Front-End
+# NICEPLANET - Teste Front-End
 
 O projeto foi desenvolvido utilizando a versão 16.14.2 do node.
 
@@ -9,12 +9,9 @@ No terminal da aplicação, execute o comando:
 
 ### `npm install`
 
-In the project directory, you can run:
+Após a instalação dos pacotes node_modules, execute no terminal o comando:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Executa o aplicativo no modo de desenvolvimento.\
+Abra http://localhost:3000 para visualizá-lo em seu navegador.
